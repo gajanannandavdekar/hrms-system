@@ -1,0 +1,24 @@
+# Java / Spring Boot
+target/
+*.jar
+*.war
+*.class
+.idea/
+*.iml
+
+# Node / React
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.pid
